@@ -1,2 +1,3 @@
 # FlaskNotes
-this Flask app Stores your notes and for profile in a database
+Flask app Stores Quality notes and user_id in its sqlite/Database
+
