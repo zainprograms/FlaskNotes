@@ -1,0 +1,48 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(19, 19, 19);
+    color: white;
+}
+
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:600;
+    padding-top: 20px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 35px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:600;
+    padding-top: 20px;
+    padding-right: 30px;
+}
+
+label {
+    font-size: 16px;
+}
+
+.list-group-item {
+    color: white; /* Change the text color to white */
+    border-radius: 10px;
+    background-color: rgb(38, 38, 38); /* Change the background color to blue */
+    border: solid rgb(0, 0, 0) 2px;
+}
+
+.list-group-item {
+    border-radius: 10px !important;
+}
+
+#cut {
+    color: white;
+}
+
+.form-control {
+    border-radius: 5px;
+}
